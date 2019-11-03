@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: kldwmr-pkg-takuyakawanishi
+Version: 0.1.1
+Summary: Parameter estimation methods
+Home-page: https://github.com/takuyakawanishi/kldmwr
+Author: Takuya Kawanishi
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: # kldmwr
+        Library for parameter estimation based on Kullback-Leibler Divergence and Method of Weighted Residual
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
