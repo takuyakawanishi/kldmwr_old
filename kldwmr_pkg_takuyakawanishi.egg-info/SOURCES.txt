@@ -1,8 +1,0 @@
-README.md
-setup.py
-kldmwr/__init__.py
-kldmwr/parest.py
-kldwmr_pkg_takuyakawanishi.egg-info/PKG-INFO
-kldwmr_pkg_takuyakawanishi.egg-info/SOURCES.txt
-kldwmr_pkg_takuyakawanishi.egg-info/dependency_links.txt
-kldwmr_pkg_takuyakawanishi.egg-info/top_level.txt
